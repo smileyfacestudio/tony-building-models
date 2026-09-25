@@ -1,0 +1,34 @@
+# Local/private work is excluded as a precaution, not as a security boundary.
+/private/
+/local/
+/media/
+/outputs/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+.venv/
+__pycache__/
+
+# Real plan/media/model files need a private workflow, not a public commit.
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.mp4
+*.mov
+*.glb
+*.gltf
+*.blend
+*.ifc
+*.dwg
+*.dxf
+*.zip
