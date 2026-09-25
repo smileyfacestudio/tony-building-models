@@ -1,0 +1,51 @@
+{
+  "schema_version": "0.1.0",
+  "status": "awaiting_source_capture",
+  "public_safe_starter": true,
+  "properties": [
+    {
+      "model_id": "CV255",
+      "address": "255 Third Ave, Chula Vista, CA",
+      "jurisdiction": "City of Chula Vista",
+      "apn": null,
+      "scope_confirmed": false,
+      "source_state": "unknown",
+      "confidence": null,
+      "source_refs": [],
+      "created_at": null,
+      "updated_at": null,
+      "geometry_unit": null,
+      "model_version": null,
+      "scene_file": null,
+      "floors": [],
+      "spaces": [],
+      "assets": [],
+      "routes": [],
+      "estimate_lines": [],
+      "assumptions": [],
+      "media": []
+    },
+    {
+      "model_id": "NC3007",
+      "address": "3007 Highland Ave, National City, CA",
+      "jurisdiction": "City of National City",
+      "apn": null,
+      "scope_confirmed": false,
+      "source_state": "unknown",
+      "confidence": null,
+      "source_refs": [],
+      "created_at": null,
+      "updated_at": null,
+      "geometry_unit": null,
+      "model_version": null,
+      "scene_file": null,
+      "floors": [],
+      "spaces": [],
+      "assets": [],
+      "routes": [],
+      "estimate_lines": [],
+      "assumptions": [],
+      "media": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+line_id,model_id,system,space_id,asset_id,route_id,scope_state,description,quantity,quantity_unit,route_length_basis,labor_condition,material_unit_cost,labor_hours,labor_rate_per_hour,equipment_cost,contingency_amount,line_subtotal,line_total,currency,pricing_basis,pricing_date,pricing_status,assumption_id,exclusions,source_state,confidence,source_refs,created_at,updated_at
